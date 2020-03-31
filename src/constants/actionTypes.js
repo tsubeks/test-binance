@@ -1,5 +1,5 @@
-export const WS_CONNECT = 'WS_CONNECT';
-export const WS_CONNECTING = 'WS_CONNECTING';
-export const WS_CONNECTED = 'WS_CONNECTED';
-export const WS_DISCONNECT = 'WS_DISCONNECT';
-export const WS_DISCONNECTED = 'WS_DISCONNECTED';
+export const WS_CONNECT = 'websocket/connect';
+export const WS_CONNECTING = 'websocket/connecting';
+export const WS_CONNECTED = 'websocket/connected';
+export const WS_DISCONNECT = 'websocket/disconnect';
+export const WS_DISCONNECTED = 'websocket/disconnected';
